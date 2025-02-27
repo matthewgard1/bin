@@ -1,0 +1,7 @@
+[project]
+name = "hello"
+version = "0.1.0"
+description = "A simple hello world tool"
+
+[project.scripts]
+hello = "hello:main"
