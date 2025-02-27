@@ -9,4 +9,4 @@ dependencies = [
 ]
    
 [project.scripts]
-hello = "hello"
+hello = "hello:main"
